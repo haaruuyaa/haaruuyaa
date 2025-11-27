@@ -4,15 +4,15 @@
 
 I am a seasoned developer focusing on back-end development, primarily in PHP. I have extensive AWS experience (EC2, SQS, SES, DynamoDB, RDS) and strong SQL skills for complex queries. My knowledge extends to front-end technologies like Vue and Angular, ensuring comprehensive development capabilities.
 
-### =� About Me
+### About Me
 
-- =� Currently working as **Senior Full Stack Engineer** at Trader2U Sdn Bhd
-- =' Specializing in Laravel-based API development and AWS infrastructure
-- < Full-stack capabilities with expertise in both back-end and front-end technologies
-- =� Based in Kuala Lumpur, Malaysia
-- =� Reach me at: hafidznurulyaqin@gmail.com
+- Currently working as **Senior Full Stack Engineer** at Trader2U Sdn Bhd
+- Specializing in Laravel-based API development and AWS infrastructure
+- Full-stack capabilities with expertise in both back-end and front-end technologies
+- Based in Kuala Lumpur, Malaysia
+- Reach me at: hafidznurulyaqin@gmail.com
 
-### =� Technical Stack
+### Technical Stack
 
 **Back-End**
 - PHP (Laravel, CodeIgniter)
@@ -36,7 +36,7 @@ I am a seasoned developer focusing on back-end development, primarily in PHP. I 
 - CI/CD Pipelines
 - Version Control (Git)
 
-### =� Professional Experience
+### Professional Experience
 
 **Senior Full Stack Engineer** @ Trader2U Sdn Bhd *(Sep 2023 - Present)*
 - Enhanced APIs and developed new endpoints for CMS platform workflows
@@ -61,7 +61,7 @@ Instagram, TikTok and Youtube.
 - Maintained car rental management system for major corporate clients
 - Led upgrade of company's auction platform using native PHP
 
-### <� Education
+### Education
 
 **Bachelor of Computer Science - Software Development**
 Universiti Teknikal Malaysia Melaka *(2009 - 2013)*
@@ -73,17 +73,17 @@ Universiti Teknikal Malaysia Melaka *(2009 - 2013)*
 - Bahasa Indonesia
 - Bahasa Melayu
 
-### =� Core Strengths
+### Core Strengths
 
 -  Proactive and self-motivated
 -  Exceptional skill and interest in PHP (Laravel, CodeIgniter) and MySQL
 -  Great interpersonal skills - effective communication on all levels
 -  Consistent project delivery through effective self-directed time management
 
-### =� GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haaruuyaa&show_icons=true&theme=default)
 
 ---
 
-=� Open to collaborating on interesting projects, especially those involving Laravel, AWS, and scalable system architecture!
+Open to collaborating on interesting projects, especially those involving Laravel, AWS, and scalable system architecture!
