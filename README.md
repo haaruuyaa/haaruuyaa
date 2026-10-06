@@ -6,10 +6,10 @@ I am a seasoned developer focusing on back-end development, primarily in PHP. I 
 
 ### About Me
 
-- Currently working as **Senior Full Stack Engineer** at Trader2U Sdn Bhd
-- Specializing in Laravel-based API development and AWS infrastructure
+- Currently working as **PHP Software Engineer** at DL Ideas Pte Ltd
+- Specializing in Laravel-based API development, Code Igniter (3/4) and AWS infrastructure
 - Full-stack capabilities with expertise in both back-end and front-end technologies
-- Based in Kuala Lumpur, Malaysia
+- Based in Bogor, Indonesia
 - Reach me at: hafidznurulyaqin@gmail.com
 
 ### Technical Stack
@@ -18,10 +18,13 @@ I am a seasoned developer focusing on back-end development, primarily in PHP. I 
 - PHP (Laravel, CodeIgniter)
 - RESTful API Design & Development
 - MySQL - Complex Queries & Optimization
+- PostgreSQL
 - Docker Containerization
+- Go lang (Gin)
 
 **Cloud & Infrastructure**
 - AWS (EC2, SQS, SES, DynamoDB, RDS)
+- Cloudflare (R2)
 - Auto-scaling & Load Balancing
 - Microservices Architecture
 
@@ -30,6 +33,7 @@ I am a seasoned developer focusing on back-end development, primarily in PHP. I 
 - Angular
 - JavaScript/TypeScript
 - Next.js
+- Nuxt
 
 **Development Practices**
 - Agile Methodologies
@@ -38,7 +42,7 @@ I am a seasoned developer focusing on back-end development, primarily in PHP. I 
 
 ### Professional Experience
 
-**Senior Full Stack Engineer** @ Trader2U Sdn Bhd *(Sep 2023 - Present)*
+**Senior Full Stack Engineer** @ Trader2U Sdn Bhd *(Sep 2023 - 2026)*
 - Enhanced APIs and developed new endpoints for CMS platform workflows
 - Introduced bulk action features for content management and tagging processes
 - Integrated AI-powered content generation tools
